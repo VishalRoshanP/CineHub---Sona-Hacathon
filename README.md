@@ -4,7 +4,19 @@
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License Badge"/>
 </p>
 
+## 📸 Demo & Screenshots
+
+<a href="https://ibb.co/7t0PQGnx"><img src="https://i.ibb.co/tp1gzbqw/Whats-App-Image-2026-03-31-at-7-06-09-PM-png.jpg" alt="Whats-App-Image-2026-03-31-at-7-06-09-PM-png" border="0" /></a>
+<a href="https://ibb.co/dsP1w2Hg"><img src="https://i.ibb.co/dsP1w2Hg/Whats-App-Image-2026-03-31-at-7-06-09-PM-png.jpg" alt="Whats-App-Image-2026-03-31-at-7-06-09-PM-png" border="0" /></a>
+<a href="https://ibb.co/Ngy7WgWB"><img src="https://i.ibb.co/Ngy7WgWB/Whats-App-Image-2026-03-31-at-7-06-09-PM-png.jpg" alt="Whats-App-Image-2026-03-31-at-7-06-09-PM-png" border="0" /></a>
+<a href="https://ibb.co/S71RqXyN"><img src="https://i.ibb.co/S71RqXyN/Whats-App-Image-2026-03-31-at-7-06-09-PM-png.jpg" alt="Whats-App-Image-2026-03-31-at-7-06-09-PM-png" border="0" /></a>
+<a href="https://ibb.co/xqFmR3mt"><img src="https://i.ibb.co/xqFmR3mt/Whats-App-Image-2026-03-31-at-7-06-09-PM-png.jpg" alt="Whats-App-Image-2026-03-31-at-7-06-09-PM-png" border="0" /></a>
+<a href="https://ibb.co/bgmhbGy3"><img src="https://i.ibb.co/bgmhbGy3/Whats-App-Image-2026-03-31-at-7-06-09-PM-png.jpg" alt="Whats-App-Image-2026-03-31-at-7-06-09-PM-png" border="0" /></a>
+<a href="https://ibb.co/dsVWRNTg"><img src="https://i.ibb.co/dsVWRNTg/Whats-App-Image-2026-03-31-at-7-06-09-PM-png.jpg" alt="Whats-App-Image-2026-03-31-at-7-06-09-PM-png" border="0" /></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/dsVWRNTg/Whats-App-Image-2026-03-31-at-7-06-09-PM-png.jpg" alt="Whats-App-Image-2026-03-31-at-7-06-09-PM-png" border="0" /></a>
 <h1 align="center">🎬 CineHub</h1>
+
+
 
 <p align="center">
   <strong>AI-Powered Movie Discovery — Search Smarter, Not Harder.</strong>
@@ -25,17 +37,10 @@
 
 ---
 
-## 📸 Demo & Screenshots
 
-> **📌 Replace these placeholders with actual screenshots of your deployed app.**
 
-| Home — Trending & 3D Background | Smart Search with Autocomplete |
-|:---:|:---:|
-| ![Home Page](https://via.placeholder.com/600x340/1a1a2e/e94560?text=CineHub+Home) | ![Search](https://via.placeholder.com/600x340/16213e/0f3460?text=Smart+Search+%2B+NLP) |
+> 
 
-| Movie Details + Cast Navigation | AI Chatbot Assistant |
-|:---:|:---:|
-| ![Details](https://via.placeholder.com/600x340/1a1a2e/e94560?text=Movie+Details+Page) | ![Chatbot](https://via.placeholder.com/600x340/16213e/0f3460?text=AI+Chatbot) |
 
 ---
 
