@@ -7,13 +7,20 @@
 ## 📸 Demo & Screenshots
 
 <a href="https://ibb.co/7t0PQGnx"><img src="https://i.ibb.co/tp1gzbqw/Whats-App-Image-2026-03-31-at-7-06-09-PM-png.jpg" alt="Whats-App-Image-2026-03-31-at-7-06-09-PM-png" border="0" /></a>
+
 <a href="https://ibb.co/dsP1w2Hg"><img src="https://i.ibb.co/dsP1w2Hg/Whats-App-Image-2026-03-31-at-7-06-09-PM-png.jpg" alt="Whats-App-Image-2026-03-31-at-7-06-09-PM-png" border="0" /></a>
+
 <a href="https://ibb.co/Ngy7WgWB"><img src="https://i.ibb.co/Ngy7WgWB/Whats-App-Image-2026-03-31-at-7-06-09-PM-png.jpg" alt="Whats-App-Image-2026-03-31-at-7-06-09-PM-png" border="0" /></a>
+
 <a href="https://ibb.co/S71RqXyN"><img src="https://i.ibb.co/S71RqXyN/Whats-App-Image-2026-03-31-at-7-06-09-PM-png.jpg" alt="Whats-App-Image-2026-03-31-at-7-06-09-PM-png" border="0" /></a>
+
 <a href="https://ibb.co/xqFmR3mt"><img src="https://i.ibb.co/xqFmR3mt/Whats-App-Image-2026-03-31-at-7-06-09-PM-png.jpg" alt="Whats-App-Image-2026-03-31-at-7-06-09-PM-png" border="0" /></a>
+
 <a href="https://ibb.co/bgmhbGy3"><img src="https://i.ibb.co/bgmhbGy3/Whats-App-Image-2026-03-31-at-7-06-09-PM-png.jpg" alt="Whats-App-Image-2026-03-31-at-7-06-09-PM-png" border="0" /></a>
+
 <a href="https://ibb.co/dsVWRNTg"><img src="https://i.ibb.co/dsVWRNTg/Whats-App-Image-2026-03-31-at-7-06-09-PM-png.jpg" alt="Whats-App-Image-2026-03-31-at-7-06-09-PM-png" border="0" /></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/dsVWRNTg/Whats-App-Image-2026-03-31-at-7-06-09-PM-png.jpg" alt="Whats-App-Image-2026-03-31-at-7-06-09-PM-png" border="0" /></a>
+
+
 <h1 align="center">🎬 CineHub</h1>
 
 
